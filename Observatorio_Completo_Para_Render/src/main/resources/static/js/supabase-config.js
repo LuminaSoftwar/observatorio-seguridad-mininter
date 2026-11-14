@@ -1,4 +1,4 @@
 window.OBS_SUPABASE = {
-  url: "https://uucnauyfjetwtqcyseoj.supabase.co",
-  anonKey: "sb_publishable_mnWDDGvko3yxLJpnMFrByA_BgK4YFOC"
+  url: "https://hwqyftqfiznjtrwaqhru.supabase.co",
+  anonKey: "sb_publishable_cjG8J1xhHY-TFdUXX75Ekw_jbV8vNYd"
 };
